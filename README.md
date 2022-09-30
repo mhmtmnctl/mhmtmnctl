@@ -30,11 +30,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mhmtmnctl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhmtmnctl" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmtmnctl&show_icons=true&locale=en&layout=compact" alt="mhmtmnctl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmtmnctl&show_icons=true&theme=tokyonight&locale=en" alt="mhmtmnctl" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmtmnctl&theme=dark" alt="mhmtmnctl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmtmnctl&show_icons=true&locale=en&layout=compact" alt="mhmtmnctl" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mhmtmnctl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhmtmnctl" /></a></p><br><br>
