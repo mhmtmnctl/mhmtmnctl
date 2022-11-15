@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Emin,full stack java developer bootcamp student</h1>
 - 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mhmtmnctl](https://github.com/mhmtmnctl)
 
-- 💬 Ask me about **java,Hibernate,SpringBoot,Arduino,IOT**
+- 💬 Ask me about **Springboot,Hibernate,SQL,NoSQL,IOT**
 
 - 📫 How to reach me **mhmtmnctl20@gmail.com**
 
