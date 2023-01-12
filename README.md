@@ -36,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmtmnctl&show_icons=true&locale=en&layout=compact" alt="mhmtmnctl" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mhmtmnctl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhmtmnctl" /></a></p><br><br>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
