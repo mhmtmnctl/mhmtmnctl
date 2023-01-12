@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mhmtmnctl20@gmail.com**
 
-- ⚡ Fun fact: **i love pets,pc games,3d printing and of course codding**
+- ⚡ Fun fact: **i love electronic, pets,pc-games,3D-printing, of course codding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
