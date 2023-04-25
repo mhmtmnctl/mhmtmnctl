@@ -2,15 +2,15 @@
 <h1 align="center">Hi, I'm Emin,Full Stack Java Developer</h1>
 - 🔭 I’m currently working on **SpringBoot** and **React**
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AWS
 
 - 👨‍💻 All of my projects are available at [https://github.com/mhmtmnctl](https://github.com/mhmtmnctl)
 
 - 💬 Ask me about **Java-Springboot-SQL-React-IOT**
 
-- 📫 How to reach me **mhmtmnctl20@gmail.com**
+- 📫 How to reach me **mehmetemincatal@hotmail.com**
 
-- ⚡ Fun fact: **i love electronic, pets,pc-games,3D-printing, of course codding**
+- ⚡ Fun fact: ** i love electronic, pets, pc-games, 3D-printing **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
