@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning AWS
 
-- 👨‍💻 All of my projects are available at [https://github.com/mhmtmnctl](https://github.com/mhmtmnctl)
+- 👨‍💻 All of my projects are available at www.techpromates.com
 
 - 💬 Ask me about **Java-Springboot-SQL-React-IOT**
 
