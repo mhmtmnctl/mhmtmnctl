@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mehmetemincatal@hotmail.com**
 
-- ⚡ Fun fact: ** i love electronic, pets, pc-games, 3D-printing **
+- ⚡ Fun fact: ** i love electronic, aquarium, pc-games, 3D-printing and desing **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
