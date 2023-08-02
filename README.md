@@ -37,4 +37,4 @@
 <p><a href="https://www.buymeacoffee.com/mhmtmnctl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mhmtmnctl" /></a></p><br><br>
 
 
-![Snake animation](https://github.com/mhmtmnctl/mhmtmnctl/blob/output/github-contribution-grid-snake.svg)
+
