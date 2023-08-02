@@ -1,16 +1,16 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi, I'm Emin,Full Stack Java Developer</h1>
-- 🔭 I’m currently working on **SpringBoot** and **React**
+<h1 align="center">Hi, I'm Emin, Full Stack Java Developer</h1>
+- 🔭 I’m  working as a freelancer I use  **SpringBoot** and **React** mostly with my projects
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Microservices
 
 - 👨‍💻 All of my projects are available at www.techpromates.com
 
-- 💬 Ask me about **Java-Springboot-SQL-React-IOT**
+- 💬 Ask me about **Java-Springboot-SQL- Docker-AWS-React-IOT**
 
 - 📫 How to reach me **mehmetemincatal@hotmail.com**
 
-- ⚡ Fun fact: ** i love electronic, aquarium, pc-games, 3D-printing and desing **
+- ⚡ Fun fact: ** i love  arduino-raspberryPi-nodemcu, aquarium,  3D-printing **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
