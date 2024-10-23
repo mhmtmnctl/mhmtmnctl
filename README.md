@@ -4,13 +4,11 @@
 
 - 🌱 I’m currently learning Microservices
 
-- 👨‍💻 All of my projects are available at www.techpromates.com
-
 - 💬 Ask me about **Java-Springboot-SQL- Docker-AWS-React-IOT**
 
 - 📫 How to reach me **mehmetemincatal@hotmail.com**
 
-- ⚡ Fun fact: ** i love  arduino-raspberryPi-nodemcu, aquarium,  3D-printing **
+- ⚡ Fun fact: ** i love  arduino-raspberryPi-nodemcu, 3D-printing **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
