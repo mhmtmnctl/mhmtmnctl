@@ -1,14 +1,10 @@
 
 <h1 align="center">Hi, I'm Emin, Full Stack Java Developer</h1>
-- 🔭 I’m  working as a freelancer I use  **SpringBoot** and **React** mostly with my projects
-
-- 🌱 I’m currently learning Microservices
-
-- 💬 Ask me about **Java-Springboot-SQL- Docker-AWS-React-IOT**
+- 🔭 I’m  working as a freelancer I use  **SpringBoot** **PHP** **React** mostly with my projects
 
 - 📫 How to reach me **mehmetemincatal@hotmail.com**
 
-- ⚡ Fun fact: ** i love  arduino-raspberryPi-nodemcu, 3D-printing **
+- ⚡ Fun fact: ** i love  IOT Things - E-commerce - Design **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
