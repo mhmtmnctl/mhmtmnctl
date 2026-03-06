@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi, I'm Emin, Full Stack Java Developer</h1>
-- 🔭 I’m  working as a freelancer I use  **SpringBoot** **PHP** **React** mostly with my projects
+- 🔭 I use  **SpringBoot** **PHP** **React** mostly with my projects
 
 - 📫 How to reach me **mehmetemincatal@hotmail.com**
 
-- ⚡ Fun fact: ** i love  IOT Things - E-commerce - Design **
+- ⚡ Fun fact: ** i love  IOT Things **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
